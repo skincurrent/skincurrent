@@ -1,7 +1,7 @@
 SKINCURRENT
 
 Mission Statement: 
-Provide intelligent wear for all things in any situation.
+Provide intelligent armor for all things in any situation.
 
 Vision Statement: 
 Get back to nature intelligently
